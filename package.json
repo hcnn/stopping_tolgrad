@@ -1,0 +1,9 @@
+{
+  "name": "stopping_tolgrad",
+  "version": "0.1.0",
+  "repo": "hcnn/stopping_tolgrad",
+  "description": "Check if all gradients are below a certain threshold",
+  "keywords": ["stopping criteria", "termination criteria", "gradient descent", "numerical optimization", "gradient check"],
+  "license": "MIT",
+  "src": ["stopping_tolgrad.c", "stopping_tolgrad.h"]
+}
