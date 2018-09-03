@@ -28,5 +28,5 @@ cd stopping_tolgrad
 make
 ```
 
-### Links
-* http://hcnn.de/docs/stopping_tolgrad
+### Explanations
+Further explanations in [README.ipynb](README.ipynb)

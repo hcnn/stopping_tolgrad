@@ -1,6 +1,6 @@
 {
   "name": "stopping_tolgrad",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repo": "hcnn/stopping_tolgrad",
   "description": "Check if all gradients are below a certain threshold",
   "keywords": ["stopping criteria", "termination criteria", "gradient descent", "numerical optimization", "gradient check"],
